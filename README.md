@@ -4,6 +4,10 @@ A Claude skill for turning raw UiPath Studio screenshots into documentation-read
 
 ---
 
+![Before and after](assets/before-after.webp)
+
+---
+
 ## What this is
 
 Raw screenshots from UiPath Studio are noisy — browser chrome, empty space, overlapping text callouts baked into the image, usernames and tenant names visible. This repo gives you a Claude skill that handles the cleanup.
